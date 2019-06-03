@@ -6,11 +6,11 @@
 
 
 
-​            		   	 Vipin Kumar :  vipin.kumar@edu.dsti.institute
+            		   	 Vipin Kumar :  vipin.kumar@edu.dsti.institute
 
-​				Benoit Roberge : benoit.roberge@edu.dsti.institute
+				Benoit Roberge : benoit.roberge@edu.dsti.institute
 
-​                                Mirel Isaj  : mirel.isaj@edu.dsti.institute
+                                Mirel Isaj  : mirel.isaj@edu.dsti.institute
 
 **Reinforcement Learning Basics**
 
