@@ -6,7 +6,7 @@
 
 
 
-​            		    Vipin Kumar :  vipin.kumar@edu.dsti.institute
+​            		   	 Vipin Kumar :  vipin.kumar@edu.dsti.institute
 
 ​				Benoit Roberge : benoit.roberge@edu.dsti.institute
 
@@ -76,9 +76,9 @@ a = `[1,0,0,0,0]`
  a * state =  
               [[0, 37, 39] —> a = 0
               [0,  8 40] 
-	          [0,  51  5]
+	      [0,  51  5]
               [0, 13 11] 
-       		  [0, 82 15]]
+       	      [0, 82 15]]
 						
 ```
 
